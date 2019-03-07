@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PhotoBlog</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+    <string name="log_out">Log Out</string>
+    <string name="log_in">Log in</string>
+    <string name="create_new_account">Create new Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loren">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</string>
+    <string name="username">Username</string>
+    <string name="time">Time</string>
+    <string name="todo">TODO</string>
+</resources>
